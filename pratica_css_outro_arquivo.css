@@ -1,0 +1,34 @@
+.card-principal {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    width: 500px;
+    height: fit-content;
+    background-color: aliceblue;
+    border-radius: 50px;
+    border: solid 5px green;
+    margin: 10px;
+    padding: 35px;
+}
+.imagem {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-bottom: 50px;
+}
+.imagem-interna {
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+}
+.titulo {
+    font-family: monospace; 
+    font-size: 30px;
+}
+.texto-verde{
+    color:green
+}
+.mensagem{
+    font-family: monospace;
+    font-size: 15px;
+}
